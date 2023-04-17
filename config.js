@@ -28,50 +28,50 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['6285813708397', true],
-['6285813708397', 'Dev Botz', true],
-['62838766060294', 'Miyamura Botz', true]
+['13523884316', true],
+['13523884316', 'Dev Botz', true],
+['13523884316', 'YakZune Botz', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62838766060290'
-global.nomorown = '6285813708397'
-global.nomorown1 = '62838766060290'
-global.nomorown2 = '62838766060294'
-global.nomorwa = '6285718828566'
+global.nomorbot = '13523669210'
+global.nomorown = '13523884316'
+global.nomorown1 = '13523884316'
+global.nomorown2 = '13523884316'
+global.nomorwa = '13523884316'
 
 
 global.readMore = readMore
-global.author = 'Fall Host'
-global.namebot = 'Kyurzy Botz'
-global.wm = '© Kyurzy Botz By FallXD'
+global.author = 'Natz-Zune'
+global.namebot = 'YakZune Botz'
+global.wm = '© YakZune Botz By Natz-Zune'
 global.media = 'https://telegra.ph/file/02a8d3c4b00146bbfeb5d.jpg'
 global.watermark = wm
-global.wm2 = 'Kyurzy Botz'
+global.wm2 = 'YakZune Botz'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
-global.titlebot = `Kyurzy Botz`
-global.stickpack = 'Kyurzy Botz By FallXD'
-global.stickauth = `© AraChan`
+global.titlebot = `YakZune Botz`
+global.stickpack = 'YakZune Botz By Natz-Zune'
+global.stickauth = `© YakZune`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.nameown1= 'Dev Botz'
-global.nameown2 = 'KyurzyBotz'
+global.nameown2 = 'YakZuneBotz'
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
-global.sig = 'https://www.instagram.com/FallXD' //instagram
-global.sgh = 'https://github.com/FallEzz' //github
-global.sgc = 'https://chat.whatsapp.com/KCYr0YwODJTEEFUlPxuNXQ' //group whatsapp
+global.sig = 'https://www.instagram.com/Septiannhdnata_' //instagram
+global.sgh = 'https://github.com/SeptianXcz' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/@FallXD425' //youtube
+global.snh = 'https://www.youtube.com/@stnr.s' //youtube
 //Donasi/Payment
-global.pdana = '085813708397' // dana
+global.pdana = '08978613993' // dana
 global.povo = '--'
-global.pgopay = '085813708397' // gopay
+global.pgopay = '08978613993' // gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085813708397' // pulsa
-global.ppulsa2 = '085813708397' //pulsa 2
+global.ppulsa = '08978613993' // pulsa
+global.ppulsa2 = '08978613993' //pulsa 2
 global.psaweria = '-' // saweria
 //mending biarin aja
 global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
